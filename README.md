@@ -8,7 +8,7 @@ Hey there, fellow tech wizards! I'm Diana, and this is where I turn concepts int
 
 I'm a tech fairy, bringing wild ideas to life with a touch of magic and a lot of code. From full-stack development to optimizing systems, I enjoy navigating the challenges and wonders of the digital realm. 
 
-- 🔭 I’m currently working on [KDFG](https://kdfg-frontend.vercel.app/Home).
+- 🔭 I’m currently working on [KDFG](https://kdfg-frontend.vercel.app).
 - Check out my Full-Stack portfolio project at [Faebook](https://github.com/DianaMLaC/faebook).
   
 ### Tech Stack
