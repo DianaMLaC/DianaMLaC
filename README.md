@@ -8,8 +8,8 @@ Hey there, fellow tech wizards! I'm Diana, and this is where I turn concepts int
 
 I'm a tech fairy, bringing wild ideas to life with a touch of magic and a lot of code. From full-stack development to optimizing systems, I enjoy navigating the challenges and wonders of the digital realm. 
 
-- 🌍 Explore my portfolio: [dianamlac.github.io/portfolio](https://dianamlac.github.io/portfolio/)
-- 🧙‍♂️ I’m currently working on integrating an AI feature to an interactive programming quiz platform, **[Quizardry](https://github.com/DianaMLaC/quizardry))** I built with Next.JS and React.
+- 🌍 Explore my portfolio: **[Diana M Chirica Portfolio](https://dianamlac.github.io/portfolio/)**
+- 🧙‍♂️ I’m currently working on integrating an AI feature to an interactive programming quiz platform, **[Quizardry](https://github.com/DianaMLaC/quizardry)** I built with Next.JS and React.
   
   
 ### Tech Stack
