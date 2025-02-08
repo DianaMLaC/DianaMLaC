@@ -8,8 +8,12 @@ Hey there, fellow tech wizards! I'm Diana, and this is where I turn concepts int
 
 I'm a tech fairy, bringing wild ideas to life with a touch of magic and a lot of code. From full-stack development to optimizing systems, I enjoy navigating the challenges and wonders of the digital realm. 
 
+- 🌍 Explore my portfolio: [dianamlac.github.io/portfolio](https://dianamlac.github.io/portfolio/)
+
 - 🔭 I’m currently working on [KDFG](https://kdfg-frontend.vercel.app).
-- Check out my Full-Stack portfolio project at [Faebook](https://faebook.fly.dev) and the [code](https://github.com/DianaMLaC/faebook)
+- 🚀 Building **[Quizardry](https://github.com/DianaMLaC/quizardry)**, an interactive programming quiz platform, with AI integration to enhance the experience. 
+- 💡 Check out my Full-Stack project at **[Faebook](https://faebook.fly.dev)** and the [code](https://github.com/DianaMLaC/faebook).
+
   
 ### Tech Stack
 
